@@ -1,0 +1,22 @@
+{
+  "name": "ejercicio2clases",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc && node index.js",
+    "tscinit": "tsc --init"
+  },
+  "author": "Maxi",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/vscode": "^1.94.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.4",
+    "@types/prompt-sync": "^4.2.3",
+    "typescript": "^5.6.2"
+  }
+}
