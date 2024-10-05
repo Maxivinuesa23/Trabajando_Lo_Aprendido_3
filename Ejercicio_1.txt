@@ -1,0 +1,3 @@
+JavaScript basado en programación orientada a objetos con prototipos tiene la particularidad de que hay algunos métodos que pueden heredar de otros prototipos a través de ciertas propiedades
+
+2) Al no necesitar clases podemos omitir algunas restricciones del sistema lo que nos puede ayudar a hacer un trabajo mucho mas rápido, también con la flexibilidad que tiene JavaScript podemos realizar amplias modificaciones de una forma mas dinámica.

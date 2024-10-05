@@ -1,0 +1,8 @@
+EJERCICIO 2
+
+Utilice clases las cuales al principio dude bastante en como incorporarlas, no sabia bien como subdividir las operaciones y los números asi que opte por poner una clase números y otra calculadora en donde están las operaciones usando asi el extends. Quise usar modulos pero al ser typescript no supe como exportar e importar las clases.
+En el ejercicio utilice getters y setters y el constructor.
+
+EJERCICIO 3
+
+Utilice un constructor para definir la lista de tareas y funciones getters y setters, el tema del .prototype no lo utilice porque no me quedo del todo claro y creo que no podría haberlo utilizado por el hecho de que solo tengo un prototipo Agenda y no meto nada mas en ese objeto. Utilice modulos para organizar mejor el proyecto
